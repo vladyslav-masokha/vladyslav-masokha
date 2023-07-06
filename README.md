@@ -4,6 +4,8 @@
 
 ### :man_technologist: About me:
 
+## Looking for a full-time job as a Trainee/Junior Front End Developer.
+
 ### 🔨 Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
