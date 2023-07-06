@@ -1,4 +1,5 @@
-# Vladyslav Masokha > 👨🏻‍💻 Web Front-end Developer
+# Vladyslav Masokha
+> 👨🏻‍💻 Web Front-end Developer
 
 ---
 
