@@ -4,11 +4,11 @@
 
 ### :man_technologist: About me:
 
-- :telescope: 2018-2021, 'Java' and 'Web 2.0' courses at RoboCode school
+- 🔭: 2018-2021, 'Java' and 'Web 2.0' courses at RoboCode school
 
-- :atom_symbol: 2022, 'Front End Pro' course at Hillel IT-school.
+- ⚛️: 2022, 'Front End Pro' course at Hillel IT-school.
 
-- :zap: Looking for a full-time job as a Trainee/Junior Front End Developer.
+- ⚡: Looking for a full-time job as a Trainee/Junior Front End Developer.
 
 - :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_priv_m_17)
 
@@ -25,3 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp
 </div>
+
+### ⚙️ GitHub stats:
+
+<img align="left" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vladyslav-masokha&layout=compact&theme=vision-friendly-dark" />
