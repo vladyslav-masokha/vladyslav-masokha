@@ -4,7 +4,11 @@
 
 ### :man_technologist: About me:
 
-## Looking for a full-time job as a Trainee/Junior Front End Developer.
+- :telescope: 2018-2021, 'Java' and 'Web 2.0' courses at RoboCode school
+
+- :atom_symbol: 2022, 'Front End Pro' course at Hillel IT-school.
+
+- :zap: Looking for a full-time job as a Trainee/Junior Front End Developer.
 
 ### 🔨 Languages and Tools:
 
