@@ -12,7 +12,12 @@
 
 - ⚡: Looking for a full-time job as a Trainee/Junior Front End Developer.
 
-- :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_priv_m_17)
+- 📫: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_priv_m_17)
+
+- 📎: Hillel certificate:
+<a href="https://certificate.ithillel.ua/view/47449417" targt="_blank">
+  <img src="https://lms.ithillel.ua/uploads/certificates/47449417_en.png" height="300" />
+</a>
 
 ---
 
