@@ -1,6 +1,6 @@
 <h1>Vladyslav Masokha  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h1>
 
-> 👨🏻‍💻 Web Front-end Developer
+> 👨🏻‍💻 Trainee/Junior Frontend Developer
 
 ---
 
