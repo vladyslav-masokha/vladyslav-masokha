@@ -1,6 +1,6 @@
 <h1>Vladyslav Masokha  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h1>
 
-> 👨🏻‍💻 Trainee/Junior Frontend Developer
+> 👨🏻‍💻 Junior Frontend Developer
 
 ---
 
@@ -12,7 +12,7 @@
 
 - ⚡: Looking for a full-time job as a Trainee/Junior Front End Developer.
 
-- 📫: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_priv_m_17)
+- 📫: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vll_kmx)
 
 - 📎: Certificates: [![Github Badge](https://img.shields.io/badge/-Vladyslav_Masokha-dark?style=flat&logo=Github&logoColor=white)](https://github.com/vladyslav-masokha/Certificates)
 
