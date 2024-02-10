@@ -16,7 +16,7 @@
 
 - 📎: Certificates: [![Github Badge](https://img.shields.io/badge/-Vladyslav_Masokha-dark?style=flat&logo=Github&logoColor=white)](https://github.com/vladyslav-masokha/Certificates)
 
-- 🖇️: CV: [![CV Badge](https://img.shields.io/badge/-Vladyslav_Masokha-purple?style=flat&logo=CV&logoColor=white)](https://dainty-meringue-a8a8c2.netlify.app/)
+- 🖇️: CV: [![CV Badge](https://img.shields.io/badge/-Vladyslav_Masokha-purple?style=flat&logo=CV&logoColor=white)](https://stirring-bienenstitch-fa72ca.netlify.app/)
 
 ---
 
