@@ -1,16 +1,12 @@
 <h1>Vladyslav Masokha  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h1>
 
-> 👨🏻‍💻 Junior Frontend Developer
+> 👨🏻‍💻 Junior React Developer
 
 ---
 
 ### :man_technologist: About me:
 
-- 🔭: 2018-2021, 'Java' and 'Web 2.0' courses at RoboCode school
-
-- ⚛️: 2022, 'Front End Pro' course at Hillel IT-school.
-
-- ⚡: Looking for a full-time job as a Trainee/Junior Front End Developer.
+- ⚡: Looking for a full-time job as a Trainee/Junior React Developer.
 
 - 📫: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vll_kmx)
 
