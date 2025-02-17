@@ -8,7 +8,7 @@
 
 - ⚡: Looking for a full-time job as a Trainee/Junior React Developer.
 
-- 📫: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vll_kmx)
+- 📫: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Vladyslav_Masokha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vmll2006)
 
 - 📎: Certificates: [![Github Badge](https://img.shields.io/badge/-Vladyslav_Masokha-dark?style=flat&logo=Github&logoColor=white)](https://github.com/vladyslav-masokha/Certificates)
 
