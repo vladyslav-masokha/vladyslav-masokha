@@ -31,9 +31,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass/SCSS" alt="Sass/SCSS" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### ⚙️ GitHub stats:
-
-<img align="left" height="195px" alt="Vladyslav's GitHub Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vladyslav-masokha&layout=compact&theme=vision-friendly-dark" />
